@@ -1,7 +1,8 @@
 package = "vmod"
-version = "dev-1"
+version = "1.0.0-1"
 source = {
    url = "git://github.com/DarkWiiPlayer/vmod.git";
+	 tag = 'v1.0.0';
 }
 description = {
    homepage = "https://github.com/DarkWiiPlayer/vmod";
